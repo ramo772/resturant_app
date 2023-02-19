@@ -14,8 +14,5 @@
 
 ### Run on Device
 
-- run `npm start` and scan the qr code after install expo on your phone
+- run `npm start` and scan the qr code after install expo on your phone make sure that your laptop and your mobile on the same network
 
-### Start the web version
-
-- run `yarn start:web`
